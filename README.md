@@ -80,8 +80,8 @@ The fastest way to deploy the application is to click the **Deploy to Koyeb** bu
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
-cd File-Sharing-Bot
+git clone https://github.com/denki307/DENKIFILE
+cd DENKIFILE
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
